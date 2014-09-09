@@ -1,4 +1,3 @@
-terca-insana
-============
+# Terça insana
 
-Memória dos encontros de terça
+Memória dos encontros de terça-feira

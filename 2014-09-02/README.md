@@ -1,6 +1,6 @@
 # 2014-09-02
 
-Tema: Apresentação de resultados da tese do Wagner.
+Tema: Introdução ao [Rcpp](http://www.rcpp.org/)
 
 Apresentador: Wagner.
 

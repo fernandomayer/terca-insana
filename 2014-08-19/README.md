@@ -2,7 +2,7 @@
 
 Tema: Revisão de uso do git com GitHub
 
-Apresentador: Fernando
+Apresentador: @fernandomayer
 
 Revisamos alguns comandos básicos do git, e simulamos um projeto
 colaborativo através do repositório [teste][1] do Wagner.

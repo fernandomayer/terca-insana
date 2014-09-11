@@ -2,5 +2,5 @@
 
 Tema: Introdução ao [Rcpp](http://www.rcpp.org/)
 
-Apresentador: Wagner.
+Apresentador: @wbonat
 

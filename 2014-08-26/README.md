@@ -2,7 +2,7 @@
 
 Tema: Trabalho colaborativo com git e GitHub
 
-Apresentador: Fernando
+Apresentador: @fernandomayer
 
 Terminaos de discutir o  trabalho colaborativo com git através do
 GitHub, agora utilizando o esquema de "fork & pull".

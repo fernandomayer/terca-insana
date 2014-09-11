@@ -19,10 +19,12 @@ As referências básicas para os comandos do git que utilizamos estão em:
 No final, simulamos um conflito quando um dois usuários enviam versões
 diferentes do mesmo arquivo para o repositório. Uma discussão (e
 solução) para esse conflito pode ser encontrada no [material do Software
-Carpentry][4].
+Carpentry][4] e na página de ajuda do GitHub
+[resolving a merge conflict from the command line][5].
 
 
 [1]: http://github.com/wbonat/teste
 [2]: http://github.com/fernandomayer/git-rautu
 [3]: http://www.software-carpentry.org/v5/novice/git/index.html
 [4]: http://www.software-carpentry.org/v5/novice/git/03-conflict.html
+[5]: https://help.github.com/articles/resolving-a-merge-conflict-from-the-command-line

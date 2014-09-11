@@ -31,16 +31,16 @@ git pull
 
 Para fazer alterações:
 
-1. Execute o `git pull` para atualizar o repositório
-2. Edite os arquivos necessários
-3. Adicione faça o commit do(s) arquivo(s)
+- Execute o `git pull` para atualizar o repositório
+- Edite os arquivos necessários
+- Adicione e faça o commit do(s) arquivo(s)
 ```shell
 git add <arquivo>
 git commit -m 'mensagem'
 ## Ou, alternativamente (se não for um arquivo novo)
 git commit -am 'mensagem'
 ```
-4. Envie as modificações para o repositório no GitHub
+- Envie as modificações para o repositório no GitHub
 ```shell
 git push origin master
 ```
@@ -50,4 +50,15 @@ dia, e este arquivo onde deve ser adicionada uma linha na tabela acima
 com o tema do dia. Demais arquivos e diretórios podem ser colocados
 também dentro de cada dia.
 
+### Referências
 
+Alguns links de referência para escrever em Markdown:
+
+- [Mastering Markdown][1]
+- [GitHub flavored Markdown][2]
+- [Markdown-here][3] (página para testar a escrita com Markdown)
+
+
+[1]: https://guides.github.com/features/mastering-markdown/
+[2]: https://help.github.com/articles/github-flavored-markdown
+[3]: http://markdown-here.com/livedemo.html

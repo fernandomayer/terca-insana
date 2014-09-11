@@ -5,7 +5,7 @@ Tema: Revisão de uso do git com GitHub
 Apresentador: Fernando
 
 Revisamos alguns comandos básicos do git, e simulamos um projeto
-colaborativo através do repositório wbonat/teste do Wagner.
+colaborativo através do repositório [teste](wbonat/teste) do Wagner.
 
 O projeto colaborativo que simulamos foi utilizando o método do "shared
 repository", onde é dada permissão para que diversos usuários possam
